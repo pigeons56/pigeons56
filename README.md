@@ -1,4 +1,4 @@
-Upon stumbling upon this page, you are now a rat 🐀. Your objective is to get to the cheese (C). Once you obtain the cheese, you are un-ratified and may return to debugging.
+Upon stumbling upon this page, you are now a rat 🐀. Your objective is to get to the cheese (C). Once you obtain the cheese, you are un-ratified and may return to debugging. If you're sick of debugging, feel free to stay a rat and enjoy this cheese upfront 🧀.
 
 <pre>       
               █████████████████████████████████████████████████████████████████
