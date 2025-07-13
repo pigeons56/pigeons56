@@ -1,4 +1,4 @@
-Upon stumbling upon this page, you are now a rat 🐀. Your objective is to get to the cheese (C). Upon obtaining the cheese, you may return to writing poor commit messages.
+Upon stumbling upon this page, you are now a rat 🐀. Your objective is to get to the cheese (C). Once you obtain the cheese, you may return to writing poor commit messages.
 
 <pre>       
               █████████████████████████████████████████████████████████████████
